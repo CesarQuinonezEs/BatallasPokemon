@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1652092224 source:d:\program files\escuela\5tosemestre\so\proyecto\prueba\prueba\main.cpp
+	<allegro.h>
+	<math.h>
+	<iostream>
+	<list>
+	<sstream>
+	<time.h>
+	<stdlib.h>
+	<vector>
+	"Header/Alarm.h"
+	"Header/Functions.h"
+	"Header/Object.h"
+	"Header/Personaje.h"
+	"Header/Pokemon.h"
+	"Header/Animation.h"
+
+1561693715 d:\program files\escuela\5tosemestre\so\proyecto\prueba\prueba\header\alarm.h
+
+1590127203 d:\program files\escuela\5tosemestre\so\proyecto\prueba\prueba\header\functions.h
+
+1652091983 d:\program files\escuela\5tosemestre\so\proyecto\prueba\prueba\header\object.h
+
+1591168023 d:\program files\escuela\5tosemestre\so\proyecto\prueba\prueba\header\personaje.h
+
+1652085415 d:\program files\escuela\5tosemestre\so\proyecto\prueba\prueba\header\pokemon.h
+
+1652092340 d:\program files\escuela\5tosemestre\so\proyecto\prueba\prueba\header\animation.h
+
